@@ -24,3 +24,6 @@ for activate the environment
 venv\Scripts\activate
 
 for deactivate the environment
+
+wsgi == web server gateway interface
+asgi == asycnhronous server gateway interface
